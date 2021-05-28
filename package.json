@@ -1,0 +1,15 @@
+{
+  "name": "saudementalpleni",
+  "version": "1.0.0",
+  "description": "Criação de projeto para a PLENI aplicar em empresas com o foco de gerar relatórios sobre a saúde mental",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "CaioBuenoLeite",
+  "license": "ISC",
+  "dependencies": {
+    "plotly": "^1.0.6"
+  }
+}
