@@ -10,6 +10,7 @@
   "author": "CaioBuenoLeite",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^8.6.3",
     "plotly": "^1.0.6"
   }
 }
